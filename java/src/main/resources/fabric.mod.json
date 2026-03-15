@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "onnxrunitmelib",
+  "version": "1",
+  "description": "A library mod for onnxruntime inference in fabric",
+  "license": "MIT",
+  "environment": "*",
+  "depends": {
+    "java": ">=17"
+  }
+}
